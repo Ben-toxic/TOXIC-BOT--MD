@@ -1,7 +1,7 @@
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029VacWukx3rZZgdFJID53j">
     <img alt="drbeb" height="300" src="https://telegra.ph/file/c0dd51c05d02eb80021e6.jpg">
-    <h1 align="center">DR BEN MD V2</h1>
+    <h1 align="center">DR BEN MD </h1>
   </a>
 </p>
 <p align="center">
